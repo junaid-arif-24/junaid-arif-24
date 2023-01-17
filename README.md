@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="URL" alt="main_image" />
+<img align="right" width="200" height="200" src="[URL](https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif)" alt="main_image" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd Junaid&show_icons=true&locale=en&layout=compact" alt="MOHD JUNAID" /></p
 
