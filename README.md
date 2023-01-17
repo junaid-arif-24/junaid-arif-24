@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/junaida26411532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaida26411532" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd-junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-junaid" height="30" width="40" /></a>
-<a href="https://instagram.com/junaid_arif24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaid_arif_24" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mohd-junaid-85bb351ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-junaid" height="30" width="40" /></a>
+<a href="https://instagram.com/junaid_arif24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaid_arif24" height="30" width="40" /></a>
 </p>
 <br/>
 <hr/>
