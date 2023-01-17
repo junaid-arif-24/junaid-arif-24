@@ -1,6 +1,6 @@
 <img align="right" width="200" height="200" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="main_image" />
 
-<p><img align="left" src="(https://camo.githubusercontent.com/a5b30f6f651689601bd4ffcbb1ac84caf4b3f71115a7c42a96acaf0957bcabac/68747470733a2f2f676f6469676974616c6c616167656e6369612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f7765622d646576656c6f7065722e676966s?username=Mohd Junaid&show_icons=true&locale=en&layout=compact" alt="MOHD JUNAID" /></p
+<p><img align="left" src="https://camo.githubusercontent.com/a5b30f6f651689601bd4ffcbb1ac84caf4b3f71115a7c42a96acaf0957bcabac/68747470733a2f2f676f6469676974616c6c616167656e6369612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f7765622d646576656c6f7065722e676966?username=Mohd Junaid&show_icons=true&locale=en&layout=compact" alt="MOHD JUNAID" /></p
 
 ### <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">A passionate software developer from India</h3>
